@@ -1,0 +1,11 @@
+git config --global user.email "you@email.com"
+git config --global user.name "your name"
+git init
+git add index.html
+git commit -m "first commit"
+git status
+git log
+git checkout <id>
+git branch  //list
+
+
