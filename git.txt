@@ -9,5 +9,13 @@ git checkout <id>
 git branch  //list
 git branch <name>  //create branch
 git checkout <branch>
+git merge <branch>
 
+github
+git remote add origin https://github.com/AngryCoderZ/github-course.git
+git remote set-url origin https://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@github.com/AngryCoderZ/github-course.git
+git push origin main
+ //git push origin color
+git pull origin main
+ //git pull origin color
 
