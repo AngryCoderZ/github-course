@@ -7,5 +7,7 @@ git status
 git log
 git checkout <id>
 git branch  //list
+git branch <name>  //create branch
+git checkout <branch>
 
 
